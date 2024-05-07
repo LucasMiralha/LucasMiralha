@@ -8,7 +8,7 @@ Start 2022 - Conclusion 2026
 <p float = "left">
 <img height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
 <img height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
-<img height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cs/cs-original.svg"> 
+<img height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
 <img height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </p>
 

@@ -4,7 +4,7 @@
 
 Start 2022 - Conclusion 2026
 
-## Languages
+## Technologies
 <p float = "left">
 <img height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
 <img height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
